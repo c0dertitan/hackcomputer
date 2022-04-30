@@ -4,6 +4,4 @@ mkdir hack-folder
 
 cd hack-folder
 
-echo "ip addr show" >> hack-script.sh
-
-./hack-script.sh
+ip addr show >> hack-script.sh
